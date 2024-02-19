@@ -2,14 +2,6 @@ import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * <p><i>
- * Created on February 12, 2024<br>
- * Software Design and Documentation<br>
- * CSC6301 - Week 5<br>
- * Module 5: Project 5 - Planning and Executing a Maintenance Task -<br>
- * Main Class "StackProject."<br>
- * </i></p>
- *
  * <p style="color:blue;">This is the Main class to sort a Stack using an auxiliary stack.<br>
  * It requires the user to input the length of the stack and<br>
  * input the values for each element.  The program then <br>
@@ -17,7 +9,7 @@ import java.util.Stack;
  * </p>
  * <br>
  *
- * @author Damon Huber
+ * @author DamonH88
  */
 
 public class SortStack3 extends Keyboard{
